@@ -1,4 +1,10 @@
-![image](https://github.com/NailKhelifa/NailKhelifa/assets/141862323/0fd32f59-8505-4fc3-bbbf-e77821e50fc7)# Welcome to my Github profile ! 
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HEC_Paris.svg/langfr-2560px-HEC_Paris.svg.png" alt="HEC" width="200">
+</div>
+
+
+# Welcome to my Github profile ! 
 
 ## Contacts: 
 <div id="badges">
