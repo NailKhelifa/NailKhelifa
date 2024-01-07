@@ -11,17 +11,14 @@
 </div>
 
 ## Some words about me
-<div>
-    <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
-    <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HEC_Paris.svg/langfr-2560px-HEC_Paris.svg.png" alt="HEC" width="200">
-  
-  Master student at ENSAE Paris (National School of Statistics and Economic Administration, specialized in statistics and machine learning) and at HEC Paris.  
-  <br>
-  <br>
-  I am strongly interested in statistics, machine learning, mathematics and their intersections with Finance. 
-  <br>
-  <br>
-  
+
+Master student at ENSAE Paris (National School of Statistics and Economic Administration, specialized in statistics and machine learning) and at HEC Paris.
+
+I am strongly interested in statistics, machine learning, mathematics, and their intersections with Finance.
+
+<div align="right">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HEC_Paris.svg/langfr-2560px-HEC_Paris.svg.png" alt="HEC" width="200">
 </div>
 
 
