@@ -12,10 +12,10 @@
 
 ## Some words about me
 
-<div style="display:flex; flex-direction: row;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="300">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HEC_Paris.svg/langfr-2560px-HEC_Paris.svg.png" alt="HEC" width="300">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Logo_of_Sorbonne_University.svg/langfr-2880px-Logo_of_Sorbonne_University.svg.png" alt="HEC" width="300">
+<div style="display:flex; justify-content: space-between;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HEC_Paris.svg/langfr-2560px-HEC_Paris.svg.png" alt="HEC" width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Logo_of_Sorbonne_University.svg/langfr-2880px-Logo_of_Sorbonne_University.svg.png" alt="HEC" width="200">
 </div>
 
 Master student at ENSAE Paris (National School of Statistics and Economic Administration, specialized in statistics and machine learning) and at HEC Paris. Attended Sorbonne University's Master in Mathematics last year.
