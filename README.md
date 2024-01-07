@@ -12,18 +12,18 @@
 
 ## Some words about me
 
-<div style="display:flex;">
+<div style="display: flex;">
     <div style="flex: 1;">
-        Master student at ENSAE Paris (National School of Statistics and Economic Administration, specialized in statistics and machine learning) and at HEC Paris. Attended Sorbonne   University's Master in Mathematics last year.
-
-        I am strongly interested in statistics, machine learning, mathematics, and their intersections with Finance.
+        Master student at ENSAE Paris (National School of Statistics and Economic Administration, specialized in statistics and machine learning) and at HEC Paris. Attended Sorbonne University's Master in Mathematics last year.
+      I am strongly interested in statistics, machine learning, mathematics, and their intersections with Finance.
     </div>
-    <div style="display:flex; flex-direction:column; align-items: flex-end;">
+    <div style="display: flex; flex-direction: column; align-items: flex-end;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200" style="margin-bottom: 10px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HEC_Paris.svg/langfr-2560px-HEC_Paris.svg.png" alt="HEC" width="200" style="margin-bottom: 10px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Logo_of_Sorbonne_University.svg/langfr-2880px-Logo_of_Sorbonne_University.svg.png" alt="Sorbonne University" width="200">
     </div>
 </div>
+
 
 ## :chart_with_upwards_trend: GitHub Stats 
 <picture>
