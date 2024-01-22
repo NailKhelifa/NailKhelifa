@@ -13,7 +13,7 @@
 ## Some words about me
 
  Master student at ENSAE Paris (National School of Statistics and Economic Administration, specialized in statistics and machine learning) and at HEC Paris. Attended Sorbonne University's Master in Mathematics last year.
-      I am strongly interested in statistics, machine learning, mathematics, and their intersections with Finance.
+      I am strongly interested in statistics, machine learning, mathematics, and their intersections with economics and finance.
 
 <div style="display:flex; flex-direction: row;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
@@ -62,7 +62,6 @@
 - "Portfolio Construction and Realized Covariance Forecasting with Clustering" under the supervision of Prof.Cucuringu at the University of Oxford
 - "Portfolio Optimization with Clustering" under the supervision of Prof. Zagst at the  Technical University of Munich
 - Electric Vehicle Route Optimization – Python Project at ENSAE [electric cars](https://github.com/AugustinCablant/PyCar)
-- Morgan Stanley's 2023 Quant Trading Hackathon
 
 ## ⚡ My future projects : 
 - Finishing my current research project :)
