@@ -59,9 +59,11 @@
 - C++
 
 ## Projects
-- "Portfolio Construction and Realized Covariance Forecasting with Clustering" under the supervision of Prof.Cucuringu at the University of Oxford
+- "Portfolio Construction and Realized Covariance Forecasting with Clustering" under the supervision of Prof.Cucuringu at the University of Oxford ([here](https://github.com/NailKhelifa/Portfolio_clustering_project))
+  
 - "Portfolio Optimization with Clustering" under the supervision of Prof. Zagst at the  Technical University of Munich
-- Electric Vehicle Route Optimization – Python Project at ENSAE [electric cars](https://github.com/AugustinCablant/PyCar)
+  
+- Electric Vehicle Route Optimization – Python Project at ENSAE ([here](https://github.com/NailKhelifa/PyCar))
 
 ## ⚡ My future projects : 
 - Finishing my current research project :)
