@@ -23,14 +23,8 @@
 
 
 ## :chart_with_upwards_trend: GitHub Stats 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=NailKhelifa&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=NailKhelifa&show_icons=true&include_all_commits=true" 
-  alt="Nail's github stats"/>
-</picture>
+![Nail's GitHub stats](https://github-readme-stats.vercel.app/api?username=NailKhelifa&show_icons=true&theme=radical)
+[![Nail's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/NailKhelifa/github-readme-stats)
 
 ## Skills 
 <div id="badges">
@@ -46,6 +40,8 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
     </a>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NailKhelifa&hide_progress=true)
 
 ## I’m currently working on : 
 - Improving my skills in Machine Learning (scikit learn, PyTorch, Tensor Flow ...) 
