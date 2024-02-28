@@ -68,7 +68,7 @@ I am strongly interested in theoretical statistics and machine learning, and als
 
 - PyFolioC: a portfolio construction/optimisation package using clustering and realized covariance forecasting ([here](https://github.com/NailKhelifa/PyFolioC))
 
-- 
+
 
 ## ⚡ My future projects : 
 - Finishing my current research project :)
