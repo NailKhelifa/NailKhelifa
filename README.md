@@ -48,9 +48,10 @@ I am strongly interested in theoretical statistics and machine learning, and als
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NailKhelifa&hide_progress=true)
 
 ## I’m currently working on : 
-- Improving my skills in Machine Learning (scikit learn, PyTorch, Tensor Flow ...) 
+- Improving my skills in Machine Learning (mainly PyTorch, [here](https://github.com/NailKhelifa/PyTorch_Personnal) are my personal notes). 
 - Working on a [package](https://github.com/AugustinCablant/Projet_python_2A) that finds the optimal routes for electric cars in France 
 - "Portfolio Construction and Realized Covariance Forecasting with Clustering" under the supervision of Prof.Cucuringu at the University of Oxford
+- Working on a [package](https://github.com/NailKhelifa/PyFolioC) alongside my applied statistics project at Oxford
 
 ## I’m currently learning : 
 - python (PyTorch)
@@ -64,6 +65,10 @@ I am strongly interested in theoretical statistics and machine learning, and als
 - "Portfolio Optimization with Clustering" under the supervision of Prof. Zagst at the  Technical University of Munich
   
 - Electric Vehicle Route Optimization – Python Project at ENSAE ([here](https://github.com/NailKhelifa/PyCar))
+
+- PyFolioC: a portfolio construction/optimisation package using clustering and realized covariance forecasting ([here](https://github.com/NailKhelifa/PyFolioC))
+
+- 
 
 ## ⚡ My future projects : 
 - Finishing my current research project :)
