@@ -18,7 +18,7 @@ I am strongly interested in theoretical statistics and machine learning, and als
 
 <div style="display:flex; flex-direction: row;">
   <img align="left" width="200" height="200" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png">
-  <img align="right" width="200" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HEC_Paris.svg/2560px-HEC_Paris.svg.png">
+  <img align="right" width="250" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HEC_Paris.svg/2560px-HEC_Paris.svg.png">
   <img align="center" width="300" height="200" src="https://upload.wikimedia.org/wikipedia/fr/c/cd/Logo_Sorbonne_Universit%C3%A9.png">
 </div>
 
