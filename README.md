@@ -1,6 +1,6 @@
-# Welcome to my Github profile ! 
+# Hi, I'm Naïl! 👋
 
-## Contacts: 
+## My contact and links 🔗: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/naïl-khelifa-581665220/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,21 +12,25 @@
 
 ## Some words about me
 
- Master student at ENSAE Paris (National School of Statistics and Economic Administration, specialized in statistics and machine learning) and at HEC Paris. Attended Sorbonne University's Master in Mathematics last year.
-      I am strongly interested in statistics, machine learning, mathematics, and their intersections with economics and finance.
+I am currently a master student at ENSAE Paris (National School of Statistics and Economic Administration, specialized in statistics and machine learning) and at HEC Paris. Last year, I had the opportunity to attend Sorbonne University's Master in Mathematics and Applications.
+
+I am strongly interested in theoretical statistics and machine learning, and also in their various applications (health, NLP, economics and finance).
 
 <div style="display:flex; flex-direction: row;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HEC_Paris.svg/langfr-2560px-HEC_Paris.svg.png" alt="HEC" width="200">
+  <img align="left" width="300" height="300" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png">
+  <img align="right" width="300" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HEC_Paris.svg/2560px-HEC_Paris.svg.png">
+  <img align="center" width="350" height="200" src="https://upload.wikimedia.org/wikipedia/fr/c/cd/Logo_Sorbonne_Universit%C3%A9.png">
 </div>
 
+&nbsp;
 
+&nbsp;
 
 ## :chart_with_upwards_trend: GitHub Stats 
 ![Nail's GitHub stats](https://github-readme-stats.vercel.app/api?username=NailKhelifa&show_icons=true&theme=radical)
 [![Nail's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nkhel)](https://github.com/NailKhelifa/github-readme-stats)
 
-## Skills 
+##  🛠Skills 
 <div id="badges">
   <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
@@ -49,7 +53,7 @@
 - "Portfolio Construction and Realized Covariance Forecasting with Clustering" under the supervision of Prof.Cucuringu at the University of Oxford
 
 ## I’m currently learning : 
-- python
+- python (PyTorch)
 - R
 - STATA
 - C++
