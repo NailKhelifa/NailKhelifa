@@ -26,7 +26,7 @@ I am strongly interested in theoretical statistics and machine learning, and als
 
 &nbsp;
 
-## :chart_with_upwards_trend: GitHub Stats 
+## :chart_with_upwards_trend: GitHub Stats since March 2024
 ![Nail's GitHub stats](https://github-readme-stats.vercel.app/api?username=NailKhelifa&show_icons=true&theme=radical)
 [![Nail's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nkhel)](https://github.com/NailKhelifa/github-readme-stats)
 
