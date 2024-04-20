@@ -56,7 +56,6 @@ I am strongly interested in theoretical statistics and machine learning, and als
 ## I’m currently learning : 
 - python (PyTorch)
 - R
-- STATA
 - C++
 
 ## Projects
