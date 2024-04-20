@@ -12,9 +12,9 @@
 
 ## Some words about me
 
-I am currently a master student at ENSAE Paris (National School of Statistics and Economic Administration, specialized in statistics and machine learning) and at HEC Paris. Last year, I had the opportunity to attend Sorbonne University's Master in Mathematics and Applications.
+I am currently a master student at ENSAE Paris (National School of Statistics and Economic Administration, specialized in statistics and machine learning) and at HEC Paris.
 
-I am strongly interested in theoretical statistics and machine learning, and also in their various applications (health, NLP, economics and finance).
+I am strongly interested in theoretical statistics and machine learning, and also in their various applications.
 
 <div style="display:flex; flex-direction: row;">
   <img align="left" width="200" height="150" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png">
