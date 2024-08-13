@@ -1,4 +1,4 @@
-# Hi, I'm Naïl! 👋
+![image](https://github.com/user-attachments/assets/0b4ea8e3-c9ca-4fb0-9644-ee39132c3788)# Hi, I'm Naïl! 👋
 
 ## My contact and links 🔗: 
 <div id="badges">
@@ -12,14 +12,14 @@
 
 ## Some words about me
 
-I am currently a master student at ENSAE Paris (National School of Statistics and Economic Administration, specialized in statistics and machine learning) and at HEC Paris.
+I am currently a master student at ENS Paris-Saclay (M2 MVA "Mathématiques, Vision, Apprentissage"), ENSAE Paris (National School of Statistics and Economic Administration, specialized in statistics and machine learning) and at HEC Paris.
 
 I am strongly interested in theoretical statistics and machine learning, and also in their various applications.
 
 <div style="display:flex; flex-direction: row;">
   <img align="left" width="200" height="150" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png">
   <img align="right" width="250" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HEC_Paris.svg/2560px-HEC_Paris.svg.png">
-  <img align="center" width="320" height="150" src="https://upload.wikimedia.org/wikipedia/fr/c/cd/Logo_Sorbonne_Universit%C3%A9.png">
+  <img align="center" width="320" height="150" src="https://tethys-engineering.pnnl.gov/sites/default/files/taxonomy-images/ENSParisSaclay_logo.png">
 </div>
 
 &nbsp;
